@@ -6,6 +6,9 @@ __Dataset__: This project utilizes the dataset available at:
 
 The project description in __English__ 🇬🇧 can be found below the __Polish__ 🇵🇱 one.
 
+##  Wykres rozłożenia liczby ofert na województwa
+[Interaktywny wykres](charts/poland_vehicle_listings_map.html)
+
 # Polska Wersja
 
 ## Predykcja Cen Samochodów
