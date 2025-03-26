@@ -1,8 +1,8 @@
 # Car_Price_Prediction
 
-__Polish Report__: I highly encourage you to read the full Polish report: 
+__Polish Report__: I highly encourage you to read the full Polish report: [Zobacz raport (PDF)](Raport.pdf) 📄 📄 📄 
 
-__Dataset__: This project utilizes the dataset available at: 
+__Dataset__: This project utilizes the datasets included in the `datasets` ZIP archive provided in the repository.
 
 The project description in __English__ 🇬🇧 can be found below the __Polish__ 🇵🇱 one.
 
