@@ -7,7 +7,7 @@ __Dataset__: This project utilizes the dataset available at:
 The project description in __English__ 🇬🇧 can be found below the __Polish__ 🇵🇱 one.
 
 ## Rozkład ofert według województw  
-(bardziej intensywny kolor, oznacza większą liczbe ofert)
+(bardziej intensywny kolor, oznacza większą liczbę ofert)
 ![Map_of_Poland](charts/Map_of_Poland.png)
 
 # Polska Wersja
