@@ -69,6 +69,8 @@ W projekcie zastosowano algorytm **XGBoost**:
 - **Optymalizacja hiperparametrów** – wykorzystanie biblioteki **Optuna** (np. `n_estimators`, `max_depth`, `learning_rate`).  
 - **Feature Importance** – kluczowe cechy to rok produkcji, automatyczna skrzynia biegów, LED-owe światła, Bluetooth, generacja pojazdu oraz stan techniczny.
 
+![Feature Importance](charts/feature_importance_cars.png)
+
 ---
 
 ## Wyniki
@@ -153,6 +155,8 @@ To prepare the data for modeling, the following steps were taken:
 The project employed the **XGBoost** algorithm:
 - **Hyperparameter Tuning** – using the **Optuna** library (e.g., `n_estimators`, `max_depth`, `learning_rate`).  
 - **Feature Importance** – key features include production year, automatic transmission, LED lights, Bluetooth, vehicle generation, and technical condition.
+
+![Feature Importance](charts/feature_importance_cars.png)
 
 ---
 
